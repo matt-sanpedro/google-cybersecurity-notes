@@ -1,0 +1,96 @@
+# Introduction
+- Gain understanding of the CISSP's eight security domains
+- Learn primary threats, risks, and vulnerabilities to business
+- Explore National Institute of Standards and Technology (NIST) Risk Management Framework (RMF) and risk management
+
+# WEEK 1
+### CISSP Security Domains: 1-4
+
+1. __Security Posture__: an organization's ability to manage its defense of critical assets and data, and react to change
+
+2. __Risk Mitigation__: the process of having the right procedures and rules in place to quickly reduce the impact of a risk like a breach
+
+3. __Business Continuity__: an organization's ability to maintain their everyday productivity by establishing risk disaster recovery plans
+
+4. __Shared Responsibility__: all individuals within an organization take an active role in lowering risk and maintaining both physical and virtual security
+
+__Components of IAM__: identification, authentication, authorization, accountability
+
+__Threat__: any circumstance or event that can negatively impact assets (ex. social engineering)
+
+__Risk__: anything that can impact the confidentiality, integrity, or availability of an asset
+
+__Low-risk asset__:
+information that would not harm the organization's reputation or ongoing operations, and would not cause financial damage if compromised (ex. published research data)
+
+__Medium-risk asset__: 
+information that's not available to the public and may cause some damage to the organization's finances, reputation, or ongoing operations
+
+__High-risk asset__:
+information protected by regulations or laws, which if compromised would have a severe negative impact on an organizations finances, ongoing operations, or reputation (ex. exposed PII, SPII, or IP)
+
+__Vulnerability__: a weakness that can be exploited by a threat (ex. outdated firewall, people's actions)
+
+__Ransomware__: a malicious attack where threat actors encrypt an organization's data and demand payment to restore access
+
+__Layers of the web__: surface, deep, dark
+
+__Key impacts__: financial, identity theft, reputation
+
+__NIST's Risk Management Framework (RMF)__:
+consists of prepare, categorize, select, implement, assess, authorize, monitor
+
+### RMF Total of Seven Steps:
+1. __Prepare__: activities that are necessary to manage security and privacy risks before a breach occurs
+2. __Categorize__: used to develop risk management processes and tasks
+3. __Select__: choose, customize, and capture documentation of the controls that protect an organization
+4. __Implement__: implement security and privacy plans for the organization
+5. __Access__: determine if established controls are implemented correctly
+6. __Authorize__: being accountable for the security and privacy risks that may exist in an organization
+7. __Monitor__: be aware of how systems are operating
+
+__OWASP Top Ten Critical Security Risks__:
+owasp.org/www-project-top-ten/
+
+# WEEK 2
+Frameworks and Controls
+
+__Biometrics__: unique physical characteristics that can be used to verify a person's identity
+
+__Vishing__: the exploitation of electronic voice communication to obtain sensitive information or to impersonate a known source
+
+__Cyber Threat Framework (CTF)__:
+developed by the US government to provide "a common language for describing and communicating information about cyber threat activity."
+
+__International Organization for Standardization/International Electrotechnical Commission (ISO/IEC) 27001__:
+enables organizations of all sectors and sizes to manage the security of assets, such as financial information, intellectual property, employee data, and information entrusted to third parties
+
+__NIST S.P 800-53__: a unified framework for protecting the security of information systems within the federal government
+
+__NIST Cybersecurity Framework (CSF) Five Functions__:
+1. Identify
+2. Protect
+3. Detect
+4. Respond
+5. Recover
+
+__Identify__: the management of cybersecurity risk and its effect on an organization's people and assets
+
+__Protect__: the strategy used to protect an organization through the implementation of policies, procedures, training, and tools that help mitigate cybersecurity threats
+
+__Detect__: identifying potential security incidents and improving monitoring capabilities to increase the speed and efficiency of detections
+
+__Respond__: making sure that the proper procedures are used to contain, neutralize, and analyze security incidents, and implment improvements to the security process
+
+__Recover__: the process of returning affected systems back to normal operation
+
+__Open Web Applications Security Project (OWASP)__ security principles include:
+- minimize attack surface area
+- principle of least privilege
+- defense in depth (ex. MFA)
+- separation of duties
+- keep security simple
+
+__Security Audit__: a review of an organizations security controls, policies, and procedures against a set of expectations
+
+
