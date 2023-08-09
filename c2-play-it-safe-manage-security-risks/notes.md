@@ -86,11 +86,33 @@ __Recover__: the process of returning affected systems back to normal operation
 
 __Open Web Applications Security Project (OWASP)__ security principles include:
 - minimize attack surface area
-- principle of least privilege
+- principle of least privilege (ex. users have least amount of access to perform everyday tasks)
 - defense in depth (ex. MFA)
-- separation of duties
+- separation of duties (ex. person should not prepare AND sign check)
 - keep security simple
+- fix security issues correctly
+
+__Four Additional OWASP Security Principles__:
+1. Establish secure defaults: 
+- optimal security state of application is also its default state for users
+2. Fail securely: 
+- when a control fails/stops, it should default to its most secure option
+- ex. when firewall fails, close all connections and block all new ones
+3. Don't trust sevices: 
+- an organization should not explicitly trust their partner's systems are secure
+4. Avoid security by obscurity:
+- security should rely on reasonable password policies, defense in depth, business transaction limits, solid network architecture, and fraud and audit controls
 
 __Security Audit__: a review of an organizations security controls, policies, and procedures against a set of expectations
 
+__Common elements of internal audits__:
+- establish scope and goals
+- conduct risk assessment
+- completing a controls assessment
+- assessing compliance
+- communicating results
+
+__Scope__: refers to the specific criteria of an internal security audit
+
+__Goals__: outline of the organization's security objectives
 
