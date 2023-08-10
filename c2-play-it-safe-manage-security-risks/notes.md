@@ -116,3 +116,24 @@ __Scope__: refers to the specific criteria of an internal security audit
 
 __Goals__: outline of the organization's security objectives
 
+__Control Categories__:
+- administrative controls (ex. policies and procedures)
+- technical controls (ex. hardware/software solutions like Intrusion Detection System (IDS) and Encryption)
+- physical controls (ex. surveillance cameras and locks)
+
+__Control Types__: controls work together to provide defense in depth and protect assets
+1. Preventative: designed to prevent incident
+2. Corrective: restore an asset after incident
+3. Detective: determine whether an incident has occurred or is in progress
+4. Deterrent: designed to discourage attacks
+
+__Control Type Example Resource__:
+https://docs.google.com/document/d/1Ut_H5A9FHwuQEy6_qG6Lfy3zwF6GSJnj3DZTMaNRWEE/template/preview?resourcekey=0-i4dR5qZFqQyfzr8uk3OOmA
+
+## Resources for more information
+__Assessment and Auditing Resources__:
+https://www.nist.gov/cyberframework/assessment-auditing-resources
+
+__IT Disaster Recovery Plan__:
+https://www.ready.gov/it-disaster-recovery-plan
+
